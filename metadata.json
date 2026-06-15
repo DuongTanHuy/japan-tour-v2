@@ -1,0 +1,6 @@
+{
+  "name": "Japan Tours",
+  "description": "A refined, deeply cinematic 10-day curated travel experience landing page across Osaka, Kyoto, and Tokyo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
