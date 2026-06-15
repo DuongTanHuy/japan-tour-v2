@@ -1,11 +1,9 @@
 import { PolaroidCard, TimelineNode, BentoItem } from "./types";
 
 // Dynamic generated images paths
-export const HERO_BG_IMAGE =
-  "./assets/images/mst_mountains_1781512525097.jpg";
-export const HERO_FG_IMAGE = "./assets/images/kimono_fg_1781512543879.jpg";
-export const BOOK_BG_IMAGE =
-  "./assets/images/contact_fuji_1781512560499.jpg";
+import heroBg from '@/assets/images/mst_mountains_1781512525097.jpg';
+import heroFg from '@/assets/images/kimono_fg_1781512543879.jpg';
+import bookBg from '@/assets/images/contact_fuji_1781512560499.jpg';
 
 export const polaroidCards: PolaroidCard[] = [
   {
