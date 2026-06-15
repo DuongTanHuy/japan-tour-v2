@@ -5,6 +5,8 @@ import heroBg from '@/assets/images/mst_mountains_1781512525097.jpg';
 import heroFg from '@/assets/images/kimono_fg_1781512543879.jpg';
 import bookBg from '@/assets/images/contact_fuji_1781512560499.jpg';
 
+export { heroBg as HERO_BG_IMAGE, heroFg as HERO_FG_IMAGE, bookBg as BOOK_BG_IMAGE };
+
 export const polaroidCards: PolaroidCard[] = [
   {
     id: "p1",
